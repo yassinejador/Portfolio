@@ -193,11 +193,12 @@ export default function Home() {
         Hi, I'm JADOR Yassine
       </h1>
       <p className="text-xl md:text-2xl mb-8 text-white/95 leading-relaxed text-stroke-medium">
-        A Passionate Software Engineer building the future with code
+        Software Engineer passionate about building efficient, scalable, and thoughtful solutions.
       </p>
       <p className="text-lg mb-12 text-white/85 max-w-2xl text-stroke-medium">
-        With expertise in full-stack development, I create robust and scalable applications 
-        that solve real-world problems using modern technologies.
+        I enjoy solving complex problems and writing clean, high-performance code.
+        Comfortable across the stack - Spring Boot, Laravel, ReactJS, NextJS, Angular, Git, Docker, Kubernetes, PostgreSQL, and MySQL - I like making systems work seamlessly together.
+        Always curious, always improving.
       </p>
       <div className="flex flex-col sm:flex-row justify-start gap-4">
         <a href="#projects" className="bg-gradient-to-r from-blue-500 to-blue-700 text-white font-bold py-4 px-8 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg">
@@ -240,7 +241,7 @@ export default function Home() {
               </p>
               <p className="text-lg leading-relaxed">
                 I am passionate about leveraging technology to solve real-world problems, with particular 
-                interest in distributed architectures, machine learning, deep learning, and blockchain technology.
+                interest in DevOps, Distributed Architectures and AI.
               </p>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 border border-white/20">
