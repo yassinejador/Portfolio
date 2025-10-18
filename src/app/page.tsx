@@ -59,7 +59,7 @@ const skills = [
   { name: 'Spring Boot', icon: './spring-icon-svgrepo-com.svg', category: 'Technologies' },
   { name: 'Spring Security', icon: './spring-security.svg', category: 'Technologies' },
   { name: 'Hibernate', icon: './hibernate-svgrepo-com.svg', category: 'Technologies' },
-  { name: 'JUnit', icon: './cap-svgrepo-com.svg', category: 'Technologies' },
+  { name: 'JUnit', icon: './junit5-svgrepo-com.svg', category: 'Technologies' },
   { name: 'Mockito', icon: './cap-svgrepo-com.svg', category: 'Technologies' },
   { name: 'Laravel', icon: './laravel-svgrepo-com.svg', category: 'Technologies' },
   { name: 'React', icon: './react-svgrepo-com.svg', category: 'Technologies' },
